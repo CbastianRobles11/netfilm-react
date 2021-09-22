@@ -41,7 +41,7 @@ export default function Row({titulo ,fetchUrl , isLargeRow}) {
 
             //data completa
             
-            console.log(request.data.results);
+            //console.log(request.data.results);
 
             //lo pasamos al set Movies
             setMovies(request.data.results)
