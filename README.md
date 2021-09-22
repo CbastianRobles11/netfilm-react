@@ -1,4 +1,9 @@
 
+===============================================================================================
+SITIO NETLIFY  > https://naughty-mayer-3d1ecc.netlify.app/
+================================================================================
+
+
 - primro se crea una cuenta en  the movie database api
 - sacamos un api key y tabajamos con esa api
 - registro proyecto en firebase
@@ -19,3 +24,4 @@
 
 --instalamos reat youtube para que funcione video
 -- y para el trailer  movie-trailer
+
