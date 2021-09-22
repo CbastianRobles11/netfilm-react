@@ -1,0 +1,5 @@
+1bd024f1ef072f6ed5a6d5b628568715
+
+https://api.themoviedb.org/3/movie/550?api_key=1bd024f1ef072f6ed5a6d5b628568715
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYmQwMjRmMWVmMDcyZjZlZDVhNmQ1YjYyODU2ODcxNSIsInN1YiI6IjYxNDllMzMyOWE5ZTIwMDA4ZGM3NmRhYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ehHlxXHV8lk0dhfDnx_qtIUlYdFpWE2ZhPCl6w-0WIg
